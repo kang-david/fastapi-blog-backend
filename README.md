@@ -1,0 +1,1 @@
+Python API backend for a basic blog created using FastAPI and SQLAlchemy.
